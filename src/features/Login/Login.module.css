@@ -1,0 +1,29 @@
+/* .nav {
+    font-size: 24px;
+}
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav li {
+    padding: 3px;
+    margin-right: 15px;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    transition: border-color 0.3s;
+}
+
+.nav li:hover {
+    border-color: cyan;
+}
+
+.active {
+    color: blueviolet;
+}
+
+.link {
+    color: #0f3788;
+    text-decoration: none;
+} */
